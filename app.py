@@ -1,4 +1,3 @@
-import webbrowser
 import os
 import re
 from slack_bolt import App
